@@ -1,5 +1,5 @@
 # Proyecto-para-Karbo
 Repositorio para tareas de Karbo
 
-#descripción
+## descripción
 Proyecto para el curso: Entornos de desarrollo.
